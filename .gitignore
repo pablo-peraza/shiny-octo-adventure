@@ -1,0 +1,12 @@
+*target*
+.ensime*
+.idea*
+*sublime*
+*project/project
+*project/target
+frontend/src/main/webapp/css
+frontend/src/main/webapp/js
+*/.classpath
+*/.project
+*/.settings/
+*/.cache
